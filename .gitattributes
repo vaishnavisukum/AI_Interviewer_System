@@ -1,0 +1,25 @@
+* text=auto eol=lf
+
+# Treat common web assets as text
+*.js text
+*.jsx text
+*.ts text
+*.tsx text
+*.css text
+*.html text
+*.json text
+*.md text
+
+# Images and binaries
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.svg text
+*.pdf binary
+*.doc binary
+*.docx binary
+*.mp4 binary
+*.mp3 binary
+*.wav binary
